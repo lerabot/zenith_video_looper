@@ -1,0 +1,15 @@
+//todo
+
+	loopHandler
+		switch de loop
+		
+	gui//autre visuel
+		ecrire des choses
+		infos (longeur / speed)
+
+
+
+POUR QUE SA MARCHE
+	sudo apt-get install gstreamer-tools 
+sudo apt-get install libgstreamer-plugins-base0.10-dev libgstreamer0.10-dev libglib2.0-dev 
+sudo apt-get install libgtk2.0-dev 
